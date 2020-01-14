@@ -1,0 +1,13 @@
+Ten projekt jest stworzony żeby prodemonstrować moją wiedzę zagadnień relacyjnych Baz Danych, jezyka SQL i jego rozszerzeń takich jak
+PL-SQL i Transact-SQL.
+
+Poniżej demonstruję opis mojej bazy danych dla Kompleksu Sportowego.
+
+1) Kompleks sportowy składa się z różnych sal (pływalnia, siłownia, sala crossfit'u...), każda sala musi mieć nazwę i opis.
+2) W kompleksie sportowym pracuje wiele trenerów, w Bazie Danych muszą być zaznaczone ich dane osobowe oraz wynagrodzenie.
+3) W sali może być wiele trenerów, ale jeden trener może trenować ludzi tylko w jednej sali.
+4) Trener ma dużo klientów i klient może mieć więcej niż jednego trenera.
+5) Baza Danych musi przechowywać dane osobowe klientów oraz ich warunek korzystania z kompleksu sportowego, czyli karnet. 
+6) Klient może mieć tylko 1 karnet.
+7) Karnet musi mieć typ (studencki, normalny...), status (aktywny, zawieszony, nieaktywny) i cenę.
+8) Każdy klient może mieć zajęcie z trenerem w jakiejś sali. Historia treningów klienta musi być przechowana w Bazie Danych.
