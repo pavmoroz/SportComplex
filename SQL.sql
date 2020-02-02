@@ -1,6 +1,6 @@
 ﻿
 /* Tutaj demonstruję swoją wiedzę języka SQL tworząc zapytania dla mojej Bazy Danych.
-Poniżej udostępniam opisy zapytań, które sam wymyśliłem i PL-SQL kod rozwiązania */
+Poniżej udostępniam opisy zapytań, które sam wymyśliłem i SQL kod rozwiązania */
 
 -- Polecenia SELECT z warunkiem WHERE.
 
